@@ -45,7 +45,7 @@ const { NotImplementedError } = require('../extensions/index.js');
   return l
 }
 
-}
+
 module.exports = {
   removeKFromList
 };
