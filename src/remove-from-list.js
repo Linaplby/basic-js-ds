@@ -24,7 +24,7 @@ const { NotImplementedError } = require('../extensions/index.js');
  */
 
   function removeKFromList(l, k) {
-  throw new NotImplementedError('Not implemented');
+  
     if (!l) {
     return null;
   }
